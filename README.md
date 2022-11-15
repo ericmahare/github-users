@@ -18,10 +18,10 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link `https://github.com/ericmahare/todo-list-react.git`.
+- copy this link `https://github.com/ericmahare/github-users.git`.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
-- write `git clone https://github.com/ericmahare/todo-list-react.git`.
+- write `git clone https://github.com/ericmahare/github-users.git`.
 - go to the repository folder in your command prompt `cd todo-list-react`
 - write `npm install` to install all the packages.
 - write `npm start` to start the live server
